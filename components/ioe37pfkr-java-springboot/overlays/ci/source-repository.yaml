@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ioe37pfkr-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ioe37pfkr-java-springboot
